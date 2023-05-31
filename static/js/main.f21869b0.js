@@ -8448,7 +8448,8 @@ n.m = e, n.n = function(e) {
         var we = function(e) {
                 var t = "schedule",
                     n = "workshop",
-                    r = "https://docs.google.com/forms/d/e/1FAIpQLSfHaH6JDEEl6Bct1032mdWmErJDF41ZDbrwTP34gQmNdnWjvg/viewform";
+                    // r = "https://docs.google.com/forms/d/e/1FAIpQLSfHaH6JDEEl6Bct1032mdWmErJDF41ZDbrwTP34gQmNdnWjvg/viewform";
+                    r = "#";
                 return (0, i.jsxs)(u, {
                     children: [(0, i.jsxs)(o, {
                         children: [(0, i.jsx)("div", {
@@ -8507,7 +8508,7 @@ n.m = e, n.n = function(e) {
                                 style: {
                                     color: "grey"
                                 },
-                                children: "Registration is closed!"
+                                // children: "Registration is closed!"
                             }), (0, i.jsxs)(p, {
                                 children: [(0, i.jsx)(m, {
                                     children: "OSM Hackfest 2023"
@@ -8518,14 +8519,14 @@ n.m = e, n.n = function(e) {
                                         children: "OpenStreetMap | Free and Open Source Software | Open Data"
                                     })
                                 }), (0, i.jsxs)(v, {
-                                    children: ["Happening in Kathmandu, NP", (0, i.jsx)("br", {}), "From July 27 to July 29", (0, i.jsx)("br", {})]
+                                    children: ["Happening in Hanoi, Vietnam", (0, i.jsx)("br", {}), "From July 27 to July 29", (0, i.jsx)("br", {})]
                                 })]
                             }), (0, i.jsxs)(p, {
                                 children: [(0, i.jsx)(b, {
                                     onClick: function() {
                                         return window.location.href = r
                                     },
-                                    disabled: !0,
+                                    // disabled: !0,
                                     children: "Register"
                                 }), (0, i.jsx)(b, {
                                     onClick: function() {
@@ -8805,7 +8806,8 @@ n.m = e, n.n = function(e) {
                                     })]
                                 }), (0, i.jsx)("br", {}), (0, i.jsx)(b, {
                                     onClick: function() {
-                                        return window.location.href = "https://docs.google.com/forms/d/1b4wnGVfSXz35qB76Q8anWIrQCtrHE67Jdy06ITbz3vE/edit"
+                                        return window.location.href = "#"
+                                        // return window.location.href = "https://docs.google.com/forms/d/1b4wnGVfSXz35qB76Q8anWIrQCtrHE67Jdy06ITbz3vE/edit"
                                     },
                                     disabled: !0,
                                     children: "Apply for this workshop"
@@ -8874,7 +8876,8 @@ n.m = e, n.n = function(e) {
                                         style: {
                                             color: "white"
                                         },
-                                        href: "https://fb.com/opentechcommunity",
+                                        href: "#",
+                                        // href: "https://fb.com/opentechcommunity",
                                         children: "Facebook Page"
                                     })
                                 }), (0, i.jsx)("div", {
@@ -8886,7 +8889,7 @@ n.m = e, n.n = function(e) {
                                         style: {
                                             color: "white"
                                         },
-                                        href: "https://osmhackfest.github.io",
+                                        href: "https://osmhackfestvietnam.github.io",
                                         children: "Website"
                                     })
                                 }), (0, i.jsx)("div", {
@@ -8898,7 +8901,8 @@ n.m = e, n.n = function(e) {
                                         style: {
                                             color: "white"
                                         },
-                                        href: "https://twitter.com/OpenTechNP",
+                                        // href: "https://twitter.com/OpenTechNP",
+                                        href: "#",
                                         children: "Twitter"
                                     })
                                 }), (0, i.jsx)("div", {
@@ -8910,7 +8914,8 @@ n.m = e, n.n = function(e) {
                                         style: {
                                             color: "white"
                                         },
-                                        href: "https://www.youtube.com/channel/UCYyCLnr1HRxAedzl0V577gA",
+                                        href: "#",
+                                        // href: "https://www.youtube.com/channel/UCYyCLnr1HRxAedzl0V577gA",
                                         children: "Youtube Channel"
                                     })
                                 }), (0, i.jsx)("div", {
@@ -8922,7 +8927,8 @@ n.m = e, n.n = function(e) {
                                         style: {
                                             color: "white"
                                         },
-                                        href: "https://osmhackfest.github.io/old-site",
+                                        // href: "https://osmhackfest.github.io/old-site",
+                                        href: "#",
                                         children: "Old Site"
                                     })
                                 })]
