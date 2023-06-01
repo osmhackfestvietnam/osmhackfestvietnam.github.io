@@ -7586,7 +7586,7 @@ n.m = e, n.n = function(e) {
                 var t = e.children;
                 return (0, i.jsx)("div", {
                     style: {
-                        backgroundColor: "#202020"
+                        backgroundColor: "#31326F"
                     },
                     children: t
                 })
@@ -7669,8 +7669,8 @@ n.m = e, n.n = function(e) {
                     style: {
                         position: "relative",
                         zIndex: 1,
-                        color: "#eee",
-                        backgroundColor: "#111",
+                        color: "#111",
+                        backgroundColor: "#DBF6E9",
                         padding: 20
                     },
                     children: (0, i.jsx)("div", {
@@ -7773,12 +7773,12 @@ n.m = e, n.n = function(e) {
                 var t = e.children;
                 return (0, i.jsx)("div", {
                     style: {
-                        backgroundColor: "#202020",
+                        backgroundColor: "#233E8B",
                         padding: 50,
                         color: "#eee",
                         textAlign: "center"
                     },
-                    children: t
+                    // children: t
                 })
             },
             k = function(e) {
@@ -8348,7 +8348,7 @@ n.m = e, n.n = function(e) {
             J = n.p + "static/media/HOT_OMH_Asia_Pacific_Logo_COLOUR.82d9b4b6490e8478864a.png",
             Z = n.p + "static/media/logo-humg.png",
             KK = n.p + "static/media/vfossa.png",
-            HU2 = n.p + "static/media/logo-humg-2.jpg",
+            HU2 = n.p + "static/media/logo-humg-2.png",
             FE = n.p + "static/media/logo-phenika.png",
             KT = n.p + "static/media/logo-hvkt.png";
         var G = n.p + "static/media/oknp.8ad2a342b90361d3104c4e86caf5c916.svg",
@@ -8378,52 +8378,55 @@ n.m = e, n.n = function(e) {
             Ae = [Z],
             zz = [KK],
             OR = [HU2, FE, KT],
-            be = [{
+            be = [
+                {
+                    avatar: re,
+                    name: "Nirab Pudasaini",
+                    organization: "Open Mapping Hub Asia Pacific",
+                    designation: "Open tech and Innovation Specialista"
+                },{
                 avatar: ee,
-                name: "Rob Savoye",
-                organization: "Humanitarian OpenStreetMap Team",
-                designation: "Senior Technical Lead"
+                name: "Can Unen",
+                organization: "Open Mapping Hub Asia Pacific",
+                designation: "OSM trainer"
             }, , {
                 avatar: ne,
-                name: "Ramya Ragupathy",
+                name: "Synne Marion Olsen",
                 organization: "Humanitarian OpenStreetMap Team",
-                designation: "Module Owner"
+                designation: "Open Innovation Facilitator"
             }, {
                 avatar: le,
-                name: "Kshitiz Sharma",
-                organization: "Humanitarian OpenStreetMap Team",
-                designation: "Backend Developer"
-            }, {
-                avatar: re,
-                name: "Nirab Pudasaini",
-                organization: "Open Mapping Hub - Asia Pacific",
-                designation: "Open Tech and Innovation Specialist"
-            }, {
-                avatar: ae,
-                name: "Ichchha Moktan",
-                organization: "Kathmandu Living Labs",
-                designation: "Tech and Innovation Lead"
-            }, {
-                avatar: oe,
-                name: "Nishan Aryal",
-                organization: "ICMS YouthMappers",
-                designation: "Community Lead"
-            }, {
-                avatar: ie,
-                name: "Hel Nershing Thapa",
-                organization: "Kathmandu Living Labs",
-                designation: "Frontend Engineer"
-            }, {
-                avatar: ue,
-                name: "Yogesh Girikumar",
-                organization: "Humanitarian OpenStreetMap Team",
-                designation: "Technical Projects Coordinator"
-            }, {
-                avatar: se,
-                name: "Arjun Gautam",
-                organization: "Open Tech Community",
-                designation: "FOSS, OSM and OD Volunteer"
-            }],
+                name: "Petya Kangalova",
+                organization: " Humanitarian OpenStreetMap Team OpenStreetMap Team",
+                designation: "Tech Collective Facilitator"
+            },  
+            // {
+            //     avatar: ae,
+            //     name: "Ichchha Moktan",
+            //     organization: "Kathmandu Living Labs",
+            //     designation: "Tech and Innovation Lead"
+            // }, {
+            //     avatar: oe,
+            //     name: "Nishan Aryal",
+            //     organization: "ICMS YouthMappers",
+            //     designation: "Community Lead"
+            // }, {
+            //     avatar: ie,
+            //     name: "Hel Nershing Thapa",
+            //     organization: "Kathmandu Living Labs",
+            //     designation: "Frontend Engineer"
+            // }, {
+            //     avatar: ue,
+            //     name: "Yogesh Girikumar",
+            //     organization: "Humanitarian OpenStreetMap Team",
+            //     designation: "Technical Projects Coordinator"
+            // }, {
+            //     avatar: se,
+            //     name: "Arjun Gautam",
+            //     organization: "Open Tech Community",
+            //     designation: "FOSS, OSM and OD Volunteer"
+            // }
+        ],
             xe = [{
                 avatar: ce,
                 name: "Bal Krishna Joshi",
@@ -8676,71 +8679,77 @@ n.m = e, n.n = function(e) {
                                     }), (0, i.jsxs)(A, {
                                         children: [(0, i.jsx)(S, {}), (0, i.jsx)("br", {})]
                                     }), (0, i.jsx)("br", {}), (0, i.jsx)("br", {})]
-                                }), (0, i.jsxs)(p, {
-                                    bgColor: "#fff",
-                                    children: [(0, i.jsx)("br", {}), (0, i.jsx)("h3", {
-                                        style: {
-                                            color: "#333"
-                                        },
-                                        children: "OSM Hackfest 2022 Winning Team - Team Omnecal"
-                                    }), (0, i.jsxs)(A, {
-                                        children: [(0, i.jsx)("img", {
-                                            src: de,
-                                            style: {
-                                                maxWidth: 720,
-                                                width: "100%"
-                                            }
-                                        }), (0, i.jsx)("br", {})]
-                                    }), (0, i.jsx)("br", {}), (0, i.jsx)("br", {})]
-                                }), (0, i.jsxs)(p, {
-                                    bgColor: "#fff",
-                                    children: [(0, i.jsx)("br", {}), (0, i.jsx)("h3", {
-                                        style: {
-                                            color: "#333"
-                                        },
-                                        children: "OSM Hackfest 2022 Winner under the title 'Impactful Project' - Team Geoneer"
-                                    }), (0, i.jsxs)(A, {
-                                        children: [(0, i.jsx)("img", {
-                                            src: fe,
-                                            style: {
-                                                maxWidth: 720,
-                                                width: "100%"
-                                            }
-                                        }), (0, i.jsx)("br", {})]
-                                    }), (0, i.jsx)("br", {}), (0, i.jsx)("br", {})]
-                                }), (0, i.jsxs)(p, {
-                                    bgColor: "#fff",
-                                    children: [(0, i.jsx)("br", {}), (0, i.jsx)("h3", {
-                                        style: {
-                                            color: "#333"
-                                        },
-                                        children: "OSM Hackfest 2022 Winner under the title 'Best Presentation' - Team Pollyanna"
-                                    }), (0, i.jsxs)(A, {
-                                        children: [(0, i.jsx)("img", {
-                                            src: pe,
-                                            style: {
-                                                maxWidth: 720,
-                                                width: "100%"
-                                            }
-                                        }), (0, i.jsx)("br", {})]
-                                    }), (0, i.jsx)("br", {}), (0, i.jsx)("br", {})]
-                                }), (0, i.jsxs)(p, {
-                                    bgColor: "#fff",
-                                    children: [(0, i.jsx)("br", {}), (0, i.jsx)("h3", {
-                                        style: {
-                                            color: "#333"
-                                        },
-                                        children: "OSM Hackfest 2022 Winner under the title 'Best UI Design' - Team Sagarmatha"
-                                    }), (0, i.jsxs)(A, {
-                                        children: [(0, i.jsx)("img", {
-                                            src: he,
-                                            style: {
-                                                maxWidth: 720,
-                                                width: "100%"
-                                            }
-                                        }), (0, i.jsx)("br", {})]
-                                    }), (0, i.jsx)("br", {}), (0, i.jsx)("br", {})]
-                                })]
+                                }), 
+                                // (0, i.jsxs)(p, {
+                                //     bgColor: "#fff",
+                                //     children: [(0, i.jsx)("br", {}), (0, i.jsx)("h3", {
+                                //         style: {
+                                //             color: "#333"
+                                //         },
+                                //         children: "OSM Hackfest 2022 Winning Team - Team Omnecal"
+                                //     }), (0, i.jsxs)(A, {
+                                //         children: [(0, i.jsx)("img", {
+                                //             src: de,
+                                //             style: {
+                                //                 maxWidth: 720,
+                                //                 width: "100%"
+                                //             }
+                                //         }), (0, i.jsx)("br", {})]
+                                //     }), (0, i.jsx)("br", {}), (0, i.jsx)("br", {})]
+                                // }),
+                                //  (0, i.jsxs)(p, {
+                                //     bgColor: "#fff",
+                                //     children: [(0, i.jsx)("br", {}), (0, i.jsx)("h3", {
+                                //         style: {
+                                //             color: "#333"
+                                //         },
+                                //         children: "OSM Hackfest 2022 Winner under the title 'Impactful Project' - Team Geoneer"
+                                //     }), (0, i.jsxs)(A, {
+                                //         children: [(0, i.jsx)("img", {
+                                //             src: fe,
+                                //             style: {
+                                //                 maxWidth: 720,
+                                //                 width: "100%"
+                                //             }
+                                //         }), (0, i.jsx)("br", {})]
+                                //     }), (0, i.jsx)("br", {}), (0, i.jsx)("br", {})]
+                                // }),
+                                //  (0, i.jsxs)(p, {
+                                //     bgColor: "#fff",
+                                //     children: [(0, i.jsx)("br", {}), (0, i.jsx)("h3", {
+                                //         style: {
+                                //             color: "#333"
+                                //         },
+                                //         children: "OSM Hackfest 2022 Winner under the title 'Best Presentation' - Team Pollyanna"
+                                //     }), (0, i.jsxs)(A, {
+                                //         children: [(0, i.jsx)("img", {
+                                //             src: pe,
+                                //             style: {
+                                //                 maxWidth: 720,
+                                //                 width: "100%"
+                                //             }
+                                //         }), (0, i.jsx)("br", {})]
+                                //     }), (0, i.jsx)("br", {}), (0, i.jsx)("br", {})]
+                                // }), 
+                                // (0, i.jsxs)(p, {
+                                //     bgColor: "#fff",
+                                //     children: [(0, i.jsx)("br", {}), (0, i.jsx)("h3", {
+                                //         style: {
+                                //             color: "#333"
+                                //         },
+                                //         children: "OSM Hackfest 2022 Winner under the title 'Best UI Design' - Team Sagarmatha"
+                                //     }), (0, i.jsxs)(A, {
+                                //         children: [(0, i.jsx)("img", {
+                                //             src: he,
+                                //             style: {
+                                //                 maxWidth: 720,
+                                //                 width: "100%"
+                                //             }
+                                //         }), (0, i.jsx)("br", {})]
+                                //     }), 
+                                //     (0, i.jsx)("br", {}), (0, i.jsx)("br", {})]
+                                // })
+                            ]
                             })]
                         }), (0, i.jsxs)(p, {
                             bgColor: "#eee",
