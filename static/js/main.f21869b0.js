@@ -8413,7 +8413,7 @@ n.m = e, n.n = function(e) {
                 {
                     avatar: nhs,
                     name: "Assoc. Prof. Ngo Hong Son ",
-                    organization: "Presedent of Vietnam Free Opensource Software Association",
+                    organization: "President of Vietnam Free Opensource Software Association",
                     //designation: "Open tech and Innovation Specialista"
                 },
                 {
