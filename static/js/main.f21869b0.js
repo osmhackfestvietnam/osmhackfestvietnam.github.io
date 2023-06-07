@@ -8518,7 +8518,7 @@ n.m = e, n.n = function(e) {
                                     children: "Registration"
                                 }), (0, i.jsx)(c, {
                                     link: "https://forms.gle/DoCRkfbZWHzKXd3J8",
-                                    children: "Registration in Vietnamese"
+                                    children: "Đăng ký"
                                 }),
                            (0, i.jsx)(c, {
                                 link: "#".concat(t),
