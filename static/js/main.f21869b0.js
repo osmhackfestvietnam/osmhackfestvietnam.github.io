@@ -8787,11 +8787,14 @@ n.m = e, n.n = function(e) {
                                                     style: {
                                                         color: "#F56526"
                                                     },
-                                                    children: "Presenters"
+                                                    children: "Presenters (tba.)"
                                                 })
-                                            }), " ", (0, i.jsx)(w, {
-                                                items: ke
-                                            }), (0, i.jsx)("br", {})]
+                                            }), " ", 
+                                            // (0, i.jsx)(w, {
+                                            //     items: ke
+                                            // }), 
+                                            
+                                            (0, i.jsx)("br", {})]
                                         }),
                                         // (0, i.jsxs)("div", {
                                         //     style: {
