@@ -8413,7 +8413,7 @@ n.m = e, n.n = function(e) {
                 {
                     avatar: nhs,
                     name: "Assoc. Prof. Ngo Hong Son ",
-                    organization: "Presedent of Vietnam Free Opensource Software Association",
+                    organization: "President of Vietnam Free Opensource Software Association",
                     //designation: "Open tech and Innovation Specialista"
                 },
                 {
@@ -8472,7 +8472,7 @@ n.m = e, n.n = function(e) {
                 var t = "schedule",
                     n = "workshop",
                     // r = "https://docs.google.com/forms/d/e/1FAIpQLSfHaH6JDEEl6Bct1032mdWmErJDF41ZDbrwTP34gQmNdnWjvg/viewform";
-                    r = "#";
+                    r = "https://forms.gle/rSgrDYobX1M9C2M26";
                 return (0, i.jsxs)(u, {
                     children: [(0, i.jsxs)(o, {
                         children: [(0, i.jsx)("div", {
@@ -8512,13 +8512,18 @@ n.m = e, n.n = function(e) {
                             },
                             children: [(0, i.jsxs)(s, {
                                 logo: j,
-                                children: [(0, i.jsx)(c, {
+                                children: [
+                                (0, i.jsx)(c, {
                                     link: r,
                                     children: "Registration"
                                 }), (0, i.jsx)(c, {
-                                    link: "#".concat(t),
-                                    children: "Schedule"
-                                }), (0, i.jsx)(c, {
+                                    link: "https://forms.gle/DoCRkfbZWHzKXd3J8",
+                                    children: "Đăng ký"
+                                }),
+                           (0, i.jsx)(c, {
+                                link: "#".concat(t),
+                                children: "Schedule"
+                            }), (0, i.jsx)(c, {
                                     link: "#".concat(n),
                                     children: "Workshop"
                                 })]
