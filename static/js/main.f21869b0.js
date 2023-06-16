@@ -8396,12 +8396,12 @@ n.m = e, n.n = function(e) {
             }, , {
                 avatar: ne,
                 name: "Synne Marion Olsen",
-                organization: "Humanitarian OpenStreetMap Team",
+                organization: "Humanitarian Open Software and Maps Team",
                 designation: "Open Innovation Facilitator"
             }, {
                 avatar: le,
                 name: "Petya Kangalova",
-                organization: " Humanitarian OpenStreetMap Team",
+                organization: " Humanitarian Open Software and Maps Team",
                 designation: "Tech Collective Facilitator"
             }, ],
             de = [{
@@ -8444,7 +8444,7 @@ n.m = e, n.n = function(e) {
             }, {
                 avatar: ne,
                 name: "Ramya Ragupathy",
-                organization: "Humanitarian OpenStreetMap Team",
+                organization: "Humanitarian Open Software and Maps Team",
                 designation: "Module Owner"
             }, {
                 avatar: re,
@@ -8455,17 +8455,17 @@ n.m = e, n.n = function(e) {
             ke = [{
                 avatar: ee,
                 name: "Rob Savoye",
-                organization: "Humanitarian OpenStreetMap Team",
+                organization: "Humanitarian Open Software and Maps Team",
                 designation: "Senior Technical Lead"
             }, {
                 avatar: ne,
                 name: "Ramya Ragupathy",
-                organization: "Humanitarian OpenStreetMap Team",
+                organization: "Humanitarian Open Software and Maps Team",
                 designation: "Module Owner"
             }, {
                 avatar: te,
                 name: "Petya Kangalova",
-                organization: "Humanitarian OpenStreetMap Team",
+                organization: "Humanitarian Open Software and Maps Team",
                 designation: "Tech Collective Facilitator"
             }];
         var we = function(e) {
@@ -8544,7 +8544,7 @@ n.m = e, n.n = function(e) {
                                     children: "Open Technologies for Public Good"
                                 }), (0, i.jsx)("small", {
                                     children: (0, i.jsx)("small", {
-                                        children: "OpenStreetMap | Free and Open Source Software | Open Data"
+                                        children: "Open Software and Maps | Free and Open Source Software | Open Data"
                                     })
                                 }), (0, i.jsxs)(v, {
                                     children: ["Happening in Hanoi, Vietnam", (0, i.jsx)("br", {}), "From July 27 to July 29", (0, i.jsx)("br", {})]
@@ -8571,7 +8571,7 @@ n.m = e, n.n = function(e) {
                                         maxWidth: 960
                                     },
                                     children: [(0, i.jsx)("h3", {
-                                        children: "OSM hackfest 2023 is to building solutions using OpenStreetMap and other open data and open technologies for public good."
+                                        children: "OSM hackfest 2023 is to building solutions using Open Software and Maps and other open data and open technologies for public good."
                                     }), (0, i.jsxs)("p", {
                                         children: ["This is a national competition that aims students to:", (0, i.jsxs)("ul", {
                                             children: [(0, i.jsx)("li", {
@@ -8814,7 +8814,7 @@ n.m = e, n.n = function(e) {
                                         //         children: "Date and time:"
                                         //     }), " June 7, 2022 - 10:00 AM to 4:00 PM", (0, i.jsx)("br", {}), (0, i.jsx)("b", {
                                         //         children: "Location:"
-                                        //     }), " Hotel Himalaya (\u202a183471604\u202c) | OpenStreetMap", (0, i.jsx)("br", {})]
+                                        //     }), " Hotel Himalaya (\u202a183471604\u202c) | Open Software and Maps", (0, i.jsx)("br", {})]
                                         // }), 
                                         // (0, i.jsx)("br", {}), (0, i.jsx)("br", {}), (0, i.jsxs)("ol", {
                                         //     style: {
