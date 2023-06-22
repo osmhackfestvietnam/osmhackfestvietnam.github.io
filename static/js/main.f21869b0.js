@@ -8520,12 +8520,16 @@ n.m = e, n.n = function(e) {
                                     link: "https://forms.gle/DoCRkfbZWHzKXd3J8",
                                     children: "Đăng ký"
                                 }),
+                             
                            (0, i.jsx)(c, {
                                 link: "#".concat(t),
                                 children: "Schedule"
                             }), (0, i.jsx)(c, {
                                     link: "#".concat(n),
                                     children: "Workshop"
+                                }),   (0, i.jsx)(c, {
+                                    link: "https://forms.gle/GfgUuqdebxuASguy5",
+                                    children: "Đăng ký tài trợ"
                                 })]
                             }), (0, i.jsx)("h3", {
                                 style: {
