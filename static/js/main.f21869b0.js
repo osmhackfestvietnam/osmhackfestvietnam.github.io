@@ -8351,7 +8351,9 @@ n.m = e, n.n = function(e) {
             KK = n.p + "static/media/vfossa.png",
             HU2 = n.p + "static/media/logo-humg-2.png",
             FE = n.p + "static/media/logo-phenika.png",
-            KT = n.p + "static/media/logo-hvkt.png";
+            KT = n.p + "static/media/logo_DHDT.png",
+            KSC = n.p + "static/media/logo_DHGTVT.jpg",
+            KSS = n.p + "static/media/Logo_cntt.png";
         var G = n.p + "static/media/oknp.8ad2a342b90361d3104c4e86caf5c916.svg",
             Y = n.p + "static/media/open_tech_community_logo_for_white_bg.a4fa881646815ef3f5e7.png",
             _ = n.p + "static/media/map-osm.3c46996a9ebc0b33eb08.png",
@@ -8382,7 +8384,7 @@ n.m = e, n.n = function(e) {
             ORG = [Y, J, HU2, KK],
             Ae = [Z],
             zz = [KK],
-            OR = [HU2, FE, KT],
+            OR = [HU2, FE, KT, KSS, KSC],
             be = [{
                 avatar: re,
                 name: "Nirab Pudasaini",
