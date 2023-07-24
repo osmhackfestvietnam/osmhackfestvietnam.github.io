@@ -9393,7 +9393,7 @@ n.m = e, n.n = function(e) {
                                     ]
                                 })]
                             }), (0, i.jsxs)(p, {
-                              
+                               bgColor: "#eee",
                                 children: [(0, i.jsx)(g, {
                                     children: (0, i.jsx)("span", {
                                         id: n,
@@ -9482,7 +9482,7 @@ n.m = e, n.n = function(e) {
                                     ]
                                 })]
                             }), (0, i.jsxs)(p, {
-                                bgColor: "#eee",
+                                // bgColor: "#eee",
                                 children: [(0, i.jsx)(g, {
                                     children: "Participating Colleges"
                                 }), (0, i.jsx)(A, {
@@ -9503,7 +9503,7 @@ n.m = e, n.n = function(e) {
                             // ]
                             // })
                             , (0, i.jsxs)(p, {
-                               
+                                bgColor: "#eee",
                                 children: [(0, i.jsx)(g, {
                                     children: "Organizers"
                                 }), (0, i.jsx)(A, {
@@ -9512,7 +9512,7 @@ n.m = e, n.n = function(e) {
                                     })
                                 }), (0, i.jsx)("br", {}), (0, i.jsx)("br", {})]
                             }), (0, i.jsxs)(p, {
-                                bgColor: "#eee",
+                               
                                 children: [(0, i.jsx)(g, {
                                     children: "Sponsored by"
                                 }), (0, i.jsx)(A, {
