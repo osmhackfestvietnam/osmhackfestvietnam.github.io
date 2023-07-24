@@ -7847,7 +7847,7 @@ n.m = e, n.n = function(e) {
                     style: {
                         maxWidth: 840,
                         margin: "auto",
-                        backgroundColor: "#eee"
+                        backgroundColor: "#fff"
                     },
                     children: (0, i.jsxs)("tbody", {
                         children: [(0, i.jsxs)("tr", {
@@ -7884,8 +7884,253 @@ n.m = e, n.n = function(e) {
                                             children: "College"
                                         })
                                     })
+                                }), (0, i.jsx)("td", {
+                                    colspan: "1",
+                                    rowspan: "1",
+                                    style: {
+                                        borderBottom: "1px solid #999"
+                                    },
+                                    children: (0, i.jsx)("p", {
+                                        children: (0, i.jsx)("b", {
+                                            children: "Domain"
+                                        })
+                                    })
                                 })]
-                            }), (0, i.jsxs)("tr", {
+                            }), 
+                            // (0, i.jsxs)("tr", {
+                            //     children: [(0, i.jsx)("td", {
+                            //         colspan: "1",
+                            //         rowspan: "1",
+                            //         style: {
+                            //             borderBottom: "1px solid #999"
+                            //         },
+                            //         children: (0, i.jsx)("p", {
+                            //             children: (0, i.jsx)("span", {
+                            //                 children: "Omnecal",
+                            //                 children: ""
+                            //             })
+                            //         })
+                            //     }), (0, i.jsx)("td", {
+                            //         colspan: "1",
+                            //         rowspan: "1",
+                            //         style: {
+                            //             borderBottom: "1px solid #999"
+                            //         },
+                            //         children: (0, i.jsx)("p", {
+                            //             children: (0, i.jsx)("span", {
+                            //                 children: "Third Eye for People who use Public Transportation",
+                            //                 children: ""
+                            //             })
+                            //         })
+                            //     }), (0, i.jsx)("td", {
+                            //         colspan: "1",
+                            //         rowspan: "1",
+                            //         style: {
+                            //             borderBottom: "1px solid #999"
+                            //         },
+                            //         children: (0, i.jsx)("p", {
+                            //             children: (0, i.jsx)("span", {
+                            //                 children: "Kathmandu University",
+                            //                 children: ""
+                            //             })
+                            //         })
+                            //     })]
+                            // }),
+                            (0, i.jsxs)("tr", {
+                                    children: [(0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "DTU_DZ"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Xây dựng hệ thống đánh dấu và hỗ trợ những nơi bị nạn và cần người giúp đỡ"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Đại học Duy Tân"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Sức khỏe con người và an sinh xã hội"
+                                            })
+                                        })
+                                    })]
+
+                                    
+                                }), 
+                                (0, i.jsxs)("tr", {
+                                    children: [(0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "HTTT"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Xây dựng dữ liệu cảnh báo an toàn cho ngư dân đi biển trên thiết bị di động"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Đại học Mỏ Địa Chất (HTTT)"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Di chuyển và di dân an toàn"
+                                            })
+                                        })
+                                    })]
+                                }), 
+                                (0, i.jsxs)("tr", {
+                                    children: [(0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "DJ"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Phát triển hệ thống quản lý thành phố vào việc giải quyết các vấn đề liên quan đến xử lý chất thải trên địa bàn thành phố Hồ Chí Minh"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "ĐH Mỏ Địa Chất(Tin Trắc Địa)"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Thành phố và cộng đồng bền vững"
+                                            })
+                                        })
+                                    })]
+                                }), 
+                                (0, i.jsxs)("tr", {
+                                    children: [(0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "MMT HUMG OSM"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Sự phát triển của cộng đồng trong sức khỏe và an ninh sử dụng OpenStreetMap (OSM)"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "ĐH Mỏ Địa Chất (MMT)"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Sức khỏe con người và an sinh xã hội"
+                                            })
+                                        })
+                                    })]
+                                }), 
+                                
+
+
+                         
+                            (0, i.jsxs)("tr", {
                                 children: [(0, i.jsx)("td", {
                                     colspan: "1",
                                     rowspan: "1",
@@ -7894,8 +8139,7 @@ n.m = e, n.n = function(e) {
                                     },
                                     children: (0, i.jsx)("p", {
                                         children: (0, i.jsx)("span", {
-                                            // children: "Omnecal"
-                                            children: ""
+                                            children: "CNTT CLCK66"
                                         })
                                     })
                                 }), (0, i.jsx)("td", {
@@ -7906,8 +8150,7 @@ n.m = e, n.n = function(e) {
                                     },
                                     children: (0, i.jsx)("p", {
                                         children: (0, i.jsx)("span", {
-                                            // children: "Third Eye for People who use Public Transportation"
-                                            children: ""
+                                            children: "Smart Air Monitoring"
                                         })
                                     })
                                 }), (0, i.jsx)("td", {
@@ -7918,48 +8161,412 @@ n.m = e, n.n = function(e) {
                                     },
                                     children: (0, i.jsx)("p", {
                                         children: (0, i.jsx)("span", {
-                                            // children: "Kathmandu University"
-                                            children: ""
+                                            children: "Đại học Mỏ Địa Chất"
+                                        })
+                                    })
+                                }), (0, i.jsx)("td", {
+                                    colspan: "1",
+                                    rowspan: "1",
+                                    style: {
+                                        borderBottom: "1px solid #999"
+                                    },
+                                    children: (0, i.jsx)("p", {
+                                        children: (0, i.jsx)("span", {
+                                            children: "Sức khỏe con người và an sinh xã hội"
                                         })
                                     })
                                 })]
-                            }),
+                            }), 
                             (0, i.jsxs)("tr", {
-                                //     children: [(0, i.jsx)("td", {
-                                //         colspan: "1",
-                                //         rowspan: "1",
-                                //         style: {
-                                //             borderBottom: "1px solid #999"
-                                //         },
-                                //         children: (0, i.jsx)("p", {
-                                //             children: (0, i.jsx)("span", {
-                                //                 children: "ICMS team"
-                                //             })
-                                //         })
-                                //     }), (0, i.jsx)("td", {
-                                //         colspan: "1",
-                                //         rowspan: "1",
-                                //         style: {
-                                //             borderBottom: "1px solid #999"
-                                //         },
-                                //         children: (0, i.jsx)("p", {
-                                //             children: (0, i.jsx)("span", {
-                                //                 children: "Plight Guard (Eliminate Time Delay in Emergency)"
-                                //             })
-                                //         })
-                                //     }), (0, i.jsx)("td", {
-                                //         colspan: "1",
-                                //         rowspan: "1",
-                                //         style: {
-                                //             borderBottom: "1px solid #999"
-                                //         },
-                                //         children: (0, i.jsx)("p", {
-                                //             children: (0, i.jsx)("span", {
-                                //                 children: "ICMS(Institute Of Crisis Management Studies) Samarpan Academy"
-                                //             })
-                                //         })
-                                //     })]
-                                // }), (0, i.jsxs)("tr", {
+                                children: [(0, i.jsx)("td", {
+                                    colspan: "1",
+                                    rowspan: "1",
+                                    style: {
+                                        borderBottom: "1px solid #999"
+                                    },
+                                    children: (0, i.jsx)("p", {
+                                        children: (0, i.jsx)("span", {
+                                            children: "GDSC HUMG"
+                                        })
+                                    })
+                                }), (0, i.jsx)("td", {
+                                    colspan: "1",
+                                    rowspan: "1",
+                                    style: {
+                                        borderBottom: "1px solid #999"
+                                    },
+                                    children: (0, i.jsx)("p", {
+                                        children: (0, i.jsx)("span", {
+                                            children: "ClassGuard"
+                                        })
+                                    })
+                                }), (0, i.jsx)("td", {
+                                    colspan: "1",
+                                    rowspan: "1",
+                                    style: {
+                                        borderBottom: "1px solid #999"
+                                    },
+                                    children: (0, i.jsx)("p", {
+                                        children: (0, i.jsx)("span", {
+                                            children: "Đại học Mỏ Địa Chất"
+                                        })
+                                    })
+                                }), (0, i.jsx)("td", {
+                                    colspan: "1",
+                                    rowspan: "1",
+                                    style: {
+                                        borderBottom: "1px solid #999"
+                                    },
+                                    children: (0, i.jsx)("p", {
+                                        children: (0, i.jsx)("span", {
+                                            children: "Sức khỏe con người và an sinh xã hội"
+                                        })
+                                    })
+                                })]
+                            }), 
+                            (0, i.jsxs)("tr", {
+                                children: [(0, i.jsx)("td", {
+                                    colspan: "1",
+                                    rowspan: "1",
+                                    style: {
+                                        borderBottom: "1px solid #999"
+                                    },
+                                    children: (0, i.jsx)("p", {
+                                        children: (0, i.jsx)("span", {
+                                            children: "Dino4Squad"
+                                        })
+                                    })
+                                }), (0, i.jsx)("td", {
+                                    colspan: "1",
+                                    rowspan: "1",
+                                    style: {
+                                        borderBottom: "1px solid #999"
+                                    },
+                                    children: (0, i.jsx)("p", {
+                                        children: (0, i.jsx)("span", {
+                                            children: "Cảnh báo nhiệt độ và điểm ngập lụt đô thị tức thời"
+                                        })
+                                    })
+                                }), (0, i.jsx)("td", {
+                                    colspan: "1",
+                                    rowspan: "1",
+                                    style: {
+                                        borderBottom: "1px solid #999"
+                                    },
+                                    children: (0, i.jsx)("p", {
+                                        children: (0, i.jsx)("span", {
+                                            children: "Đại học Mỏ Địa Chất (Tin Trắc Địa, KHDL và CLC)"
+                                        })
+                                    })
+                                }), (0, i.jsx)("td", {
+                                    colspan: "1",
+                                    rowspan: "1",
+                                    style: {
+                                        borderBottom: "1px solid #999"
+                                    },
+                                    children: (0, i.jsx)("p", {
+                                        children: (0, i.jsx)("span", {
+                                            children: "Chống chịu thiên tai và khí hậu"
+                                        })
+                                    })
+                                })]
+                            }), 
+                            (0, i.jsxs)("tr", {
+                                children: [(0, i.jsx)("td", {
+                                    colspan: "1",
+                                    rowspan: "1",
+                                    style: {
+                                        borderBottom: "1px solid #999"
+                                    },
+                                    children: (0, i.jsx)("p", {
+                                        children: (0, i.jsx)("span", {
+                                            children: "NA"
+                                        })
+                                    })
+                                }), (0, i.jsx)("td", {
+                                    colspan: "1",
+                                    rowspan: "1",
+                                    style: {
+                                        borderBottom: "1px solid #999"
+                                    },
+                                    children: (0, i.jsx)("p", {
+                                        children: (0, i.jsx)("span", {
+                                            children: "Xây dựng ứng dụng bản đồ sức khỏe cộng đồng"
+                                        })
+                                    })
+                                }), (0, i.jsx)("td", {
+                                    colspan: "1",
+                                    rowspan: "1",
+                                    style: {
+                                        borderBottom: "1px solid #999"
+                                    },
+                                    children: (0, i.jsx)("p", {
+                                        children: (0, i.jsx)("span", {
+                                            children: "Đại học Mỏ Địa Chất"
+                                        })
+                                    })
+                                }), (0, i.jsx)("td", {
+                                    colspan: "1",
+                                    rowspan: "1",
+                                    style: {
+                                        borderBottom: "1px solid #999"
+                                    },
+                                    children: (0, i.jsx)("p", {
+                                        children: (0, i.jsx)("span", {
+                                            children: "Sức khỏe con người và an sinh xã hội"
+                                        })
+                                    })
+                                })]
+                            }), 
+
+
+
+
+
+
+
+
+
+
+                                (0, i.jsxs)("tr", {
+                                    children: [(0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "PKA-AIoT"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Xây dựng bản đồ văn hóa du lịch sử dụng OSM"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Đại học Phenikaa"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Thành phố và cộng đồng bền vững"
+                                            })
+                                        })
+                                    })]
+                                }), 
+                                (0, i.jsxs)("tr", {
+                                    children: [(0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "PGDC"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Ứng dụng công nghệ Unity AR kết hợp OSM để xây dựng ứng dụng quảng bá địa du lịch."
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Đại học Phenikaa"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Thành phố và cộng đồng bền vững"
+                                            })
+                                        })
+                                    })]
+                                }), 
+                                (0, i.jsxs)("tr", {
+                                    children: [(0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "SFIT Environment"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Website bán và giới thiệu các sản phẩm thân thiện với môi trường kết hợp với các ấn phẩm, video kêu gọi mọi người bảo vệ môi trường"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Khoa Công nghệ Thông tin - Trường Đại học Giao thông Vận tải"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Chống chịu thiên tai và khí hậu"
+                                            })
+                                        })
+                                    })]
+                                }), 
+                                (0, i.jsxs)("tr", {
+                                    children: [(0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Overthinking"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Phòng chống thiên tai, lũ lụt"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Khoa Công nghệ Thông tin - Trường Đại học Giao thông Vận tải"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Chống chịu thiên tai và khí hậu"
+                                            })
+                                        })
+                                    })]
+                                }), 
+                                (0, i.jsxs)("tr", {
+                                    children: [(0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Our rainbow"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Our rainbow (LGBT)"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Đại học Công nghệ Thông tin – ĐHQG TPHCM"
+                                            })
+                                        })
+                                    }), (0, i.jsx)("td", {
+                                        colspan: "1",
+                                        rowspan: "1",
+                                        style: {
+                                            borderBottom: "1px solid #999"
+                                        },
+                                        children: (0, i.jsx)("p", {
+                                            children: (0, i.jsx)("span", {
+                                                children: "Bình đẳng giới"
+                                            })
+                                        })
+                                    })]
+                               
+                                
+                                    
+                                    
+                               // (0, i.jsxs)("tr", {
                                 //     children: [(0, i.jsx)("td", {
                                 //         colspan: "1",
                                 //         rowspan: "1",
@@ -8398,12 +9005,12 @@ n.m = e, n.n = function(e) {
             }, , {
                 avatar: ne,
                 name: "Synne Marion Olsen",
-                organization: "Humanitarian Open Software and Maps Team",
+                organization: "Humanitarian Open-source Sofware and Maps Team",
                 designation: "Open Innovation Facilitator"
             }, {
                 avatar: le,
                 name: "Petya Kangalova",
-                organization: " Humanitarian Open Software and Maps Team",
+                organization: " Humanitarian Open-source Sofware and Maps Team",
                 designation: "Tech Collective Facilitator"
             }, ],
             de = [{
@@ -8446,7 +9053,7 @@ n.m = e, n.n = function(e) {
             }, {
                 avatar: ne,
                 name: "Ramya Ragupathy",
-                organization: "Humanitarian Open Software and Maps Team",
+                organization: "Humanitarian Open-source Sofware and Maps Team",
                 designation: "Module Owner"
             }, {
                 avatar: re,
@@ -8457,17 +9064,17 @@ n.m = e, n.n = function(e) {
             ke = [{
                 avatar: ee,
                 name: "Rob Savoye",
-                organization: "Humanitarian Open Software and Maps Team",
+                organization: "Humanitarian Open-source Sofware and Maps Team",
                 designation: "Senior Technical Lead"
             }, {
                 avatar: ne,
                 name: "Ramya Ragupathy",
-                organization: "Humanitarian Open Software and Maps Team",
+                organization: "Humanitarian Open-source Sofware and Maps Team",
                 designation: "Module Owner"
             }, {
                 avatar: te,
                 name: "Petya Kangalova",
-                organization: "Humanitarian Open Software and Maps Team",
+                organization: "Humanitarian Open-source Sofware and Maps Team",
                 designation: "Tech Collective Facilitator"
             }];
         var we = function(e) {
@@ -8515,10 +9122,11 @@ n.m = e, n.n = function(e) {
                             children: [(0, i.jsxs)(s, {
                                 logo: j,
                                 children: [
+                                // (0, i.jsx)(c, {
+                                //     link: r,
+                                //     children: "Registration"
+                                // }), 
                                 (0, i.jsx)(c, {
-                                    link: r,
-                                    children: "Registration"
-                                }), (0, i.jsx)(c, {
                                     link: "https://forms.gle/DoCRkfbZWHzKXd3J8",
                                     children: "Đăng ký"
                                 }),
@@ -8550,7 +9158,7 @@ n.m = e, n.n = function(e) {
                                     children: "Open Technologies for Public Good"
                                 }), (0, i.jsx)("small", {
                                     children: (0, i.jsx)("small", {
-                                        children: "Open Software and Maps | Free and Open Source Software | Open Data"
+                                        children: "Open-source Sofware and Maps | Free and Open Source Software | Open Data"
                                     })
                                 }), (0, i.jsxs)(v, {
                                     children: ["Happening in Hanoi, Vietnam", (0, i.jsx)("br", {}), "From July 27 to July 29", (0, i.jsx)("br", {})]
@@ -8577,7 +9185,7 @@ n.m = e, n.n = function(e) {
                                         maxWidth: 960
                                     },
                                     children: [(0, i.jsx)("h3", {
-                                        children: "OSM hackfest 2023 is to building solutions using Open Software and Maps and other open data and open technologies for public good."
+                                        children: "OSM hackfest 2023 is to building solutions using Open-source Sofware and Maps and other open data and open technologies for public good."
                                     }), (0, i.jsxs)("p", {
                                         children: ["This is a national competition that aims students to:", (0, i.jsxs)("ul", {
                                             children: [(0, i.jsx)("li", {
@@ -8702,6 +9310,17 @@ n.m = e, n.n = function(e) {
                                                 }), (0, i.jsx)("br", {})]
                                             }), (0, i.jsx)("br", {}), (0, i.jsx)("br", {})]
                                         }),
+                                        (0, i.jsxs)(p, {
+                                            bgColor: "#eee",
+                                            children: [(0, i.jsx)("br", {}), (0, i.jsx)("h3", {
+                                                style: {
+                                                    color: "#333"
+                                                },
+                                                children: "Participating Teams"
+                                            }), (0, i.jsxs)(A, {
+                                                children: [(0, i.jsx)(S, {}), (0, i.jsx)("br", {})]
+                                            }), (0, i.jsx)("br", {}), (0, i.jsx)("br", {})]
+                                        }), 
                                         // (0, i.jsxs)(p, {
                                         //     bgColor: "#fff",
                                         //     children: [(0, i.jsx)("br", {}), (0, i.jsx)("h3", {
@@ -8774,7 +9393,7 @@ n.m = e, n.n = function(e) {
                                     ]
                                 })]
                             }), (0, i.jsxs)(p, {
-                                bgColor: "#eee",
+                              
                                 children: [(0, i.jsx)(g, {
                                     children: (0, i.jsx)("span", {
                                         id: n,
@@ -8820,7 +9439,7 @@ n.m = e, n.n = function(e) {
                                         //         children: "Date and time:"
                                         //     }), " June 7, 2022 - 10:00 AM to 4:00 PM", (0, i.jsx)("br", {}), (0, i.jsx)("b", {
                                         //         children: "Location:"
-                                        //     }), " Hotel Himalaya (\u202a183471604\u202c) | Open Software and Maps", (0, i.jsx)("br", {})]
+                                        //     }), " Hotel Himalaya (\u202a183471604\u202c) | Open-source Sofware and Maps", (0, i.jsx)("br", {})]
                                         // }), 
                                         // (0, i.jsx)("br", {}), (0, i.jsx)("br", {}), (0, i.jsxs)("ol", {
                                         //     style: {
@@ -8863,6 +9482,7 @@ n.m = e, n.n = function(e) {
                                     ]
                                 })]
                             }), (0, i.jsxs)(p, {
+                                bgColor: "#eee",
                                 children: [(0, i.jsx)(g, {
                                     children: "Participating Colleges"
                                 }), (0, i.jsx)(A, {
@@ -8883,7 +9503,7 @@ n.m = e, n.n = function(e) {
                             // ]
                             // })
                             , (0, i.jsxs)(p, {
-                                bgColor: "#eee",
+                               
                                 children: [(0, i.jsx)(g, {
                                     children: "Organizers"
                                 }), (0, i.jsx)(A, {
@@ -8892,12 +9512,12 @@ n.m = e, n.n = function(e) {
                                     })
                                 }), (0, i.jsx)("br", {}), (0, i.jsx)("br", {})]
                             }), (0, i.jsxs)(p, {
-                                // bgColor: "#eee",
+                                bgColor: "#eee",
                                 children: [(0, i.jsx)(g, {
                                     children: "Sponsored by"
                                 }), (0, i.jsx)(A, {
                                     children: (0, i.jsx)(k, {
-                                        items: [ye, Ae, zz],
+                                        items: [ Ae, zz],
                                         big: !0
                                     })
                                 }), (0, i.jsx)("br", {}), (0, i.jsx)("br", {})]
