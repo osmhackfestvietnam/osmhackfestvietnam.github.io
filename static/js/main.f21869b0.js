@@ -8958,6 +8958,7 @@ n.m = e, n.n = function(e) {
             Z2 = n.p + "static/media/logo-vietsens-chuan-01-01.png",
             Z3 = n.p + "static/media/pdt-blue-1140x641.png",
             Z4 = n.p + "static/media/vinades.png",
+            Z5 = n.p + "static/media/VidaGIS_logo_original.png",
             KK = n.p + "static/media/vfossa.png",
             HU2 = n.p + "static/media/logo-humg-2.png",
             FE = n.p + "static/media/logo-phenika.png",
@@ -9520,7 +9521,7 @@ n.m = e, n.n = function(e) {
                                     children: "Sponsored by"
                                 }), (0, i.jsx)(A, {
                                     children: (0, i.jsx)(k, {
-                                        items: [ Ae, zz, Z2, Z3, Z4],
+                                        items: [ Ae, zz, Z2 ,Z3, Z4, Z5],
                                         big: !0
                                     }),
                                 }), (0, i.jsx)("br", {}), (0, i.jsx)("br", {
