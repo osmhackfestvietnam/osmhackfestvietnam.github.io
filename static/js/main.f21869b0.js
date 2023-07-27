@@ -8955,6 +8955,9 @@ n.m = e, n.n = function(e) {
             W = n.p + "static/media/coesis_logo.04c60d8360d09040079c.png",
             J = n.p + "static/media/HOT_OMH_Asia_Pacific_Logo_COLOUR.82d9b4b6490e8478864a.png",
             Z = n.p + "static/media/logo-humg.png",
+            Z2 = n.p + "static/media/logo-vietsens-chuan-01-01.png",
+            Z3 = n.p + "static/media/pdt-blue-1140x641.png",
+            Z4 = n.p + "static/media/vinades.png",
             KK = n.p + "static/media/vfossa.png",
             HU2 = n.p + "static/media/logo-humg-2.png",
             FE = n.p + "static/media/logo-phenika.png",
@@ -9517,10 +9520,12 @@ n.m = e, n.n = function(e) {
                                     children: "Sponsored by"
                                 }), (0, i.jsx)(A, {
                                     children: (0, i.jsx)(k, {
-                                        items: [ Ae, zz],
+                                        items: [ Ae, zz, Z2, Z3, Z4],
                                         big: !0
-                                    })
-                                }), (0, i.jsx)("br", {}), (0, i.jsx)("br", {})]
+                                    }),
+                                }), (0, i.jsx)("br", {}), (0, i.jsx)("br", {
+                                    
+                                })]
                             }),
                             // (0, i.jsxs)(p, {
                             //     bgColor: "#eee",
